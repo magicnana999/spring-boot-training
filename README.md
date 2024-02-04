@@ -1,1 +1,1 @@
-# spring-training
+# spring-boot-training
